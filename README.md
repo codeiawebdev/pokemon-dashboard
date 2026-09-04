@@ -55,4 +55,4 @@ Las contribuciones son bienvenidas. Si deseas contribuir, siéntete libre de abr
 
 - **LinkedIn:** [Ismael Injante](https://www.linkedin.com/in/20ismael1999/)
 
-¡Gracias por visitar mi proyecto!
+¡Gracias por visitar mi proyecto! :D
